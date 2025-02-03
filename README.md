@@ -291,12 +291,4 @@ This script:
 
 ---
 
-## **📌 Deployment**
-To deploy:
-1. Save this file as `index.php`.
-2. Upload to a **PHP hosting server** (e.g., Render, Vercel, or a VPS).
-3. Ensure **CORS is enabled**.
-
-Your **HNG12 Number Classification API** is **fully functional**! 🚀  
-Let me know if you have **questions or need improvements**. 🎯
 
