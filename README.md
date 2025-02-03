@@ -90,8 +90,7 @@ header('Content-Type: application/json');
 
 - **GitHub**: [imjolayemi](https://github.com/imjolayemi) 
 
---
-
+---
 
 # STEP BY STEP EXPLANATION OF THE API CODE
 
