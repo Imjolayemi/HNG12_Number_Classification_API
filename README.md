@@ -1,6 +1,6 @@
 # HNG12 Stage 1 Task - Number Classification API
 
-This is a simple backend API developed for the HNG12 Stage 1 Task. The API takes a number as input and returns interesting mathematical properties about it, along with a fun fact from the Numbers API.
+This is a simple backend API developed for the HNG12 Stage 1 Task. The API takes a number as input and returns interesting mathematical properties about it, along with a fun fact from the Numbers API provided.
 
 ## Technology Stack
 
